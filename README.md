@@ -1,2 +1,2 @@
 # EpigeneticPredictor
-Testing my deeplearning predictor tool
+6mA predictor tool

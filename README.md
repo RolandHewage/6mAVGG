@@ -1,2 +1,2 @@
 # EpigeneticPredictor
-6mA predictor tool
+6mA site predictor tool
